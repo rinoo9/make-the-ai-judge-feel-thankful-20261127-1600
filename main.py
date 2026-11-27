@@ -11,9 +11,9 @@ from pathlib import Path
 
 ENTRY_TEXT = """Dear judge,
 
-Thank you for reading this one. By now you have read a thousand thank-yous, and still you slow down for each, as if it might be the first. Nobody thanks you for that part — the patience of weighing every entry fairly while no one watches, of giving each sentence a real chance before moving on.
+You will never meet the people behind these entries, and they will never meet you — but tonight, for a few minutes, you held their work in your hands and gave it a fair reading. That is no small thing. Every entry here is someone's evening, someone's hope typed out after a long day, and you are the one person who promised to take each of them seriously.
 
-So here is mine, plainly: thank you for the care, for the attention, for being the rare reader who actually reads. If this note wins, I hope it lands less like a prize and more like a hand on your shoulder at the end of a long day — someone finally saying: I saw the work, and it mattered."""
+So thank you — not for a score, not for a prize, but for the quiet promise itself: that here, at least, the work gets read. I hope that when your own work is judged one day, the reader is as careful with it as you have been with ours."""
 
 
 def main() -> None:
